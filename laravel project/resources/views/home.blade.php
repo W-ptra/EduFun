@@ -13,7 +13,7 @@
     @include('components.navbar')
 
     <div class="d-flex justify-content-center align-item-center mb-5">
-        <img class="img-fluid" src="{{ asset('images/banner.jpg') }}" alt="" style="width: 100%; height: 80vh;">
+        <img class="img-fluid" src="{{ asset('images/banner.jpg') }}" alt="" style="width: 60rem; height: 30rem;">
     </div>
 
     <?php foreach($data as $element): ?>
