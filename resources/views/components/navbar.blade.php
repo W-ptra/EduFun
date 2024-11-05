@@ -12,11 +12,11 @@
         <li class="nav-item mx-3">
           <div class="dropdown">
             <a class="btn dropdown-toggle" href="" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-              Dropdown link
+              Category
             </a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Interactive Multimedia</a></li>
-              <li><a class="dropdown-item" href="#">Software Engineering</a></li>
+              <li><a class="dropdown-item" href="/category/multimedia">Interactive Multimedia</a></li>
+              <li><a class="dropdown-item" href="/category/softeng">Software Engineering</a></li>
             </ul>
           </div>
         </li>
@@ -27,7 +27,7 @@
           <a class="nav-link" href="/aboutus">About Us</a>
         </li>
         <li class="nav-item mx-3">
-          <a class="nav-link" href="/popular">Popular</a>
+          <a class="nav-link" href="/popular/1">Popular</a>
         </li>
       </ul>
     </div>
